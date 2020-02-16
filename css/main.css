@@ -119,6 +119,11 @@ div h1 {
 
 /* BOTTOM ************/
 
+.footer{
+    position:relative;
+    top:256px;
+}
+
 .bottom{
     bottom: 0 !important;
     position: absolute;
